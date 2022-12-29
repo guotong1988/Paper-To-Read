@@ -1,2 +1,5 @@
 # AI_thoughts
-人工智能思想录
+
+https://github.com/guotong1988/AI_thoughts/discussions
+
+https://github.com/guotong1988/AI_thoughts/issues
