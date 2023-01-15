@@ -1,4 +1,4 @@
-# AI_thoughts
+# AI Thoughts Log
 
 https://github.com/guotong1988/AI_thoughts/discussions
 
