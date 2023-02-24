@@ -1,4 +1,4 @@
-# 不疯魔不成活
+# 不疯魔不成佛
 
 https://github.com/guotong1988/AI_thoughts/discussions
 
