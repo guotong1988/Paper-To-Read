@@ -1,4 +1,4 @@
-# AI-Thought-Log
+# 不疯魔不成活
 
 https://github.com/guotong1988/AI_thoughts/discussions
 
