@@ -1,4 +1,4 @@
-# 不疯魔不成佛
+# everything begins with an idea
 
 https://github.com/guotong1988/AI_thoughts/discussions
 
