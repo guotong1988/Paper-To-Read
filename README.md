@@ -1,4 +1,4 @@
-# everything begins with the goal
+# everything begins with the problem
 
 https://github.com/guotong1988/AI_thoughts/discussions
 
