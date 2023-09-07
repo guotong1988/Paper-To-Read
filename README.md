@@ -1,5 +1,3 @@
-# everything begins with the problem
+Everything begins with the problem.
 
-https://github.com/guotong1988/AI_thoughts/discussions
-
-https://github.com/guotong1988/AI_thoughts/issues
+Reading paper can not only learn the knowledge but also learn the writing.
