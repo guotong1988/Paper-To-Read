@@ -19,3 +19,7 @@ https://openreview.net/group?id=NeurIPS.cc/2022/Conference
 ## ACL
 
 https://2023.aclweb.org/program/best_papers/
+
+## Related Links
+
+https://www.researchgate.net/profile/Tong-Guo-10/questions
