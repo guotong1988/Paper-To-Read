@@ -20,6 +20,10 @@ https://openreview.net/group?id=NeurIPS.cc/2022/Conference
 
 https://2023.aclweb.org/program/best_papers/
 
+## EMNLP
+
+https://aclanthology.org/events/emnlp-2022/
+
 ## KDD
 
 https://kdd.org/kdd2023/ads-track-papers/
