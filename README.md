@@ -16,6 +16,8 @@ https://openreview.net/venue?id=NeurIPS.cc
 
 https://openreview.net/group?id=NeurIPS.cc/2023/Conference
 
+https://openreview.net/group?id=NeurIPS.cc/2022/Conference
+
 ## ACL
 
 https://2023.aclweb.org/program/best_papers/
