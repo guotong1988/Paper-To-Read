@@ -37,3 +37,7 @@ https://kdd.org/kdd2023/research-track-papers/
 ## Related Links
 
 https://www.researchgate.net/profile/Tong-Guo-10/questions
+
+# Reference
+
+https://github.com/guotong1988/guotong1988.github.io
